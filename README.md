@@ -144,12 +144,12 @@
 * [在JVM上通过React.js和Spring Boot构建同构的WebApps](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
 
 ##### 使用React构建健壮的Web应用
-* [Building robust web apps with React: Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
-* [Building robust web apps with React: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
-* [Building robust web apps with React: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
-* [Building robust web apps with React: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
+* [使用React构建健壮的web应用:Part 1](http://maketea.co.uk/2014/03/05/building-robust-web-apps-with-react-part-1.html)
+* [使用React构建健壮的web应用: Part 2](http://maketea.co.uk/2014/04/07/building-robust-web-apps-with-react-part-2.html)
+* [使用React构建健壮的web应用: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
+* [使用React构建健壮的web应用: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 
-##### Comprehensive Guide to Building Apps with React
+##### 通过React构架应用的全面引导
 * [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
 * [Part 3 - Architecting React.js Apps with Flux](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
