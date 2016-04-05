@@ -149,13 +149,13 @@
 * [使用React构建健壮的web应用: Part 3](http://maketea.co.uk/2014/05/22/building-robust-web-apps-with-react-part-3.html)
 * [使用React构建健壮的web应用: Part 4](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 
-##### 通过React构架应用的全面引导
-* [Part 1 - Comprehensive Guide to Building Apps with React](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-* [Part 2 - Building React Applications with Gulp and Browserify](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
-* [Part 3 - Architecting React.js Apps with Flux](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
+##### 通过React构架应用的全面指导
+* [Part 1 - 通过React构架应用的全面指导](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* [Part 2 - 通过Gulp和Browserify构建Reat应用](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/)
+* [Part 3 - 使用Flux构建React应用](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
 
-##### Scotch.io React tutorials series
-* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+##### Scotch.io React入门系列
+* [Learning React.js: 入门及概念](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 * [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 * [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
