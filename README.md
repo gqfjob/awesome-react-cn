@@ -155,13 +155,13 @@
 * [Part 3 - 使用Flux构建React应用](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/)
 
 ##### Scotch.io React入门系列
-* [Learning React.js: 入门及概念](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
-* [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
-* [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
-* [Make a Mobile App with ReactJS in 30 Minutes](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
+* [React.js: 入门及概念](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [通过Node.js和React.js构建实时的Twitter流](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+* [开始了解Flux：React.js的架构](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+* [通过Reack.js和Flux创建一个简单的购物车](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
+* [使用React.js，30分钟内创建一个手机应用](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
-##### React styling
+##### React风格
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 * [Radium](https://github.com/FormidableLabs/radium)
 * [jsxstyle](https://github.com/petehunt/jsxstyle)
