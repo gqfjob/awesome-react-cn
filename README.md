@@ -271,41 +271,41 @@
 * [一个树编辑距离的最优分解算法](http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf)
 
 
-#### React Tools
+#### React工具
 
-##### Fundamental React Tools
-* [babel - JavaScript compiler](https://babeljs.io/)
-* [react-router - A complete routing solution for React.js](https://github.com/rackt/react-router)
-* [redux - Predictable state container for JavaScript apps](https://github.com/reactjs/redux)
+##### 基本的React工具
+* [babel - JavaScript编译](https://babeljs.io/)
+* [react-router - React.js的一个完整的路由解决方案](https://github.com/rackt/react-router)
+* [redux - apps的可预计的state容器](https://github.com/reactjs/redux)
 
-##### React Projects
-* [structor - User interface builder for React](https://github.com/ipselon/structor)
-* [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
-* [react-blessed - A react renderer for blessed terminal interface library](https://github.com/Yomguithereal/react-blessed)
+##### React项目
+* [structor - React的用户接口构建](https://github.com/ipselon/structor)
+* [gatsby - 使用React.js将简单的text文件转换为动态的博客和站点](https://github.com/gatsbyjs/gatsby)
+* [react-blessed - 一个react渲染的终端交互库](https://github.com/Yomguithereal/react-blessed)
 
-##### Boilerplates
-* [React Starter Kit - a skeleton of an "isomorphic" web application](https://github.com/kriasoft/react-starter-kit)
+##### 模板
+* [React Starter Kit - 一个同构的web应用的启动工程](https://github.com/kriasoft/react-starter-kit)
 * [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example)
-* [React Slingshot - React + Redux with Babel, hot reloading, testing, linting and working example app](https://github.com/coryhouse/react-slingshot)
-* [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
-* [react-transform-boilerplate - Webpack boilerplate with hot reloading React components](https://github.com/gaearon/react-transform-boilerplate)
-* [essential-react - A minimal skeleton for building testable React apps using ES6](https://github.com/pheuter/essential-react)
-* [react-isomorphic-starterkit - somorphic starterkit with server-side React rendering](https://github.com/RickWong/react-isomorphic-starterkit)
-* [react-starter - Starter template for React with webpack](https://github.com/webpack/react-starter)
-* [react-hot-boilerplate - Live-editing boilerplate for your next ReactJS project](https://github.com/gaearon/react-hot-boilerplate)
-* [react-engine - A composite render engine for isomorphic express apps](https://github.com/paypal/react-engine)
-* [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
-* [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code](https://github.com/benoitvallon/react-native-nw-react-calculator)
+* [React Slingshot - 使用React + Redux + Babel, 包含热加载，测试，代码校验的实例app](https://github.com/coryhouse/react-slingshot)
+* [este - 一个健壮而舒适的手机、离线、前端优先开发栈的同构webappRobust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps](https://github.com/steida/este)
+* [react-transform-boilerplate - 包含热加载react组件功能的webpack工程](https://github.com/gaearon/react-transform-boilerplate)
+* [essential-react - 一个使用ES6构建的可测试的React应用的最小构架](https://github.com/pheuter/essential-react)
+* [react-isomorphic-starterkit - React服务端渲染的启动工程](https://github.com/RickWong/react-isomorphic-starterkit)
+* [react-starter - 使用React和webpack的启动模板](https://github.com/webpack/react-starter)
+* [react-hot-boilerplate - 下一代React工程的实时编辑的模板](https://github.com/gaearon/react-hot-boilerplate)
+* [react-engine - 一个同构的express应用的复合渲染引擎](https://github.com/paypal/react-engine)
+* [react-webpack-node - React + Redux/alt Flux的通用模板](https://github.com/choonkending/react-webpack-node)
+* [react-native-nw-react-calculator - 手机, 电脑 和网站应用，一次编写，到处运行](https://github.com/benoitvallon/react-native-nw-react-calculator)
 
 
-##### Components
-* [React Components](http://react-components.com/)
-* [React Component List](http://dvemac.github.io/react-component-list/)
-* [React.parts - A catalog of React components](http://react.parts/)
-* [Khan Academy React Components](http://khan.github.io/react-components/)
+##### 组件
+* [React 组件](http://react-components.com/)
+* [React 组件清单](http://dvemac.github.io/react-component-list/)
+* [React.parts - React目录组件](http://react.parts/)
+* [React Components研究](http://khan.github.io/react-components/)
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
-* [React Topcoat UI components](https://github.com/kjda/react-topui)
-* [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
+* [React 轻量级UI组件](https://github.com/kjda/react-topui)
+* [react-material - Material design components written with React.js和React Style](https://github.com/SanderSpies/react-material)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
 * [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 * [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
